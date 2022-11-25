@@ -561,7 +561,7 @@ marquee:last-child{
 }
 
 .ideal__block{
-  background-image: url('../img/Frame\ 1337.png');
+  background-image: url('../img/Frame1337.png');
   background-repeat: no-repeat;
   background-position: 10% 30%;
 }
@@ -726,7 +726,7 @@ marquee:last-child{
   border-radius: 10000px;
   width: 655px;
   height: 655px;
-  background: url(../img/image\ 70.png) center/cover no-repeat;;
+  background: url(../img/image70.png) center/cover no-repeat;;
 }
 
 @keyframes anim-play {
